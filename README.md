@@ -7,7 +7,7 @@
 
 | Foto     | Nombre completo     | Cargo                 | Departamento        | Correo electrónico           | Teléfono        |
 |----------|---------------------|------------------------|----------------------|-------------------------------|-----------------|
-| ![Diego](/img_empleados/personal2.jpeg)     | Diego Rodríguez      | Red Teamer  | Tecnología           | diego.rodriguez@technova.com  | +34 611 234 567 |
+| ![Diego](/img_empleados/personal2.jpg)     | Diego Rodríguez      | Red Teamer  | Tecnología           | diego.rodriguez@technova.com  | +34 611 234 567 |
 
 
 | Foto     | Nombre completo     | Cargo                 | Departamento        | Correo electrónico           | Teléfono        |
